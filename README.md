@@ -3,7 +3,7 @@
 # 📁 Project List
 
 | Project No | Name of the Project | Link | Imported Libraries |
-|------------|---------------------|------|---------------------|
+|:------------:|:---------------------|------|:---------------------:|
 | 1 | Dice Rolling Simulator | [Link](https://github.com/KuSantosh100/Python-Project-Bundler/blob/main/Projects/1.Dice-Rolling-Simulator.py) | `random` |
 | 2 | Simple Calculator | [Link](https://github.com/KuSantosh100/Python-Project-Bundler/blob/main/Projects/2.Simple-Calculator.py) | `None` |
 | 3 | To Do List App | [Link](https://github.com/KuSantosh100/Python-Project-Bundler/blob/main/Projects/3.To-Do-List-App.py) | `None` |
