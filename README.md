@@ -1,4 +1,4 @@
-# <img src="/python-logo-only.png" width="3%"> Python-Project-Bundler
+# <img src="/python-logo-only.png" width="3%"> Python Project Bundler
 
 # 📁 Project List
 
